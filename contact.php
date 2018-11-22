@@ -6,6 +6,7 @@
 <body>
 
 <h1>Contact</h1>
-<p>toto</p>
+<p>Bonsoir</p>
+<p>toto est parti en vacances</p>
 </body>
 </html>
